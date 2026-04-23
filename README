@@ -1,0 +1,25 @@
+# 🇻🇳 Vietnamese Sentiment Analysis
+
+## 🚀 Overview
+Dự án này xây dựng một hệ thống Machine Learning để phân loại cảm xúc văn bản tiếng Việt (Positive / Negative).
+
+Người dùng có thể nhập một câu tiếng Việt và hệ thống sẽ dự đoán cảm xúc của câu đó.
+
+---
+
+## 🧠 Tech Stack
+- Python
+- scikit-learn
+- TF-IDF
+- Logistic Regression
+- Streamlit
+
+---
+
+## 📂 Project Structure
+
+
+How does it work:
+pip install -r requirements.txt
+python -m src.train
+streamlit run app/app.py
